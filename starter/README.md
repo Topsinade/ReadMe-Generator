@@ -1,9 +1,9 @@
 
-  # ReadMe Generator
+  # Readme Generator
 
 
   ## Description
-  Generates readme automatically from javascript
+  This generates the readme file automatically
 
   ## Table of Content
   - [Installation](#installation)
@@ -15,10 +15,10 @@
 
 
   ## Installation
-  Download all dependencies and instal init
+  instal gitignore, before dependencies
 
   ## Usage
-  use proper versions
+  use node.js
 
   ## License
   MIT
@@ -28,9 +28,8 @@
   none
 
   ## Tests
-  none
+  node.js
 
   ## Questions
-  undefined
-  For questions, reach out to me at topsinade@gmail.com. You can also check out my Github Profile: [Topsinade](http:github.com/Topsinade)
+  For questions, reach out to me at topsinde@gmail.com. You can also check out my Github Profile: [Topsinade](http:github.com/Topsinade)
 

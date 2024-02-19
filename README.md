@@ -47,8 +47,10 @@ Contributions are welcome! Please fork this repository, make your changes, and s
 
 ## Issues
 
-If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/your-username/readme-generator-app/issues) on GitHub.
+If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/topsinade/readme-generator-app/issues) on GitHub.
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out to [topsinade@gmail.com](topsinade@gmail.com).
+For any inquiries or feedback, feel free to reach out to [topsinade@gmail.com](topsinade@gmail.com)
+## Link
+Check out the demo of how the app works on this link [Video](https://youtu.be/wOwTW4FzC8k).
