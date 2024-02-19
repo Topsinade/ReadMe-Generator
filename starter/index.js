@@ -20,32 +20,37 @@ const questions =[
       message: 'installation procedure:',
       name: 'installation',
     },
-    // {
-    //   type: 'input',
-    //   message: 'Usage:',
-    //   name: 'Usage',
-    // },
-    // {
-    //   type: 'input',
-    //   message: 'Contributing:',
-    //   name: 'Contributions',
-    // },
-    // {
-    //   type: 'input',
-    //   message: 'What commands should be run to run tests:',
-    //   name: 'Tests',
-    // }, 
+    {
+      type: 'input',
+      message: 'Usage:',
+      name: 'usage',
+    },
+    {
+      type: 'input',
+      message: 'Contributing:',
+      name: 'contribution',
+    },
+    {
+      type: 'input',
+      message: 'What commands should be run to run tests:',
+      name: 'tests',
+    }, 
     {
       type: 'list',
       message: 'What kind of License should the project have?',
       name: 'license',
       choices: ['MIT', 'Boost1.0', 'AGPL', 'none'],
     },
-    // {
-    //   type: 'input',
-    //   message: 'Please enter your Github Username:',
-    //   name: 'Questions',
-    // }, 
+    {
+    type: 'input',
+     message: 'Please enter your Github Username:',
+     name: 'github',
+    }, 
+    {
+      type: 'input',
+       message: 'Please enter your email:',
+       name: 'email',
+      }, 
   ];
 
 // function to write README file
@@ -64,3 +69,4 @@ function init() {
 
 // function call to initialize program
 init();
+
